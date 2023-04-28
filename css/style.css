@@ -835,3 +835,17 @@ footer span a:hover {
         line-height: 38px;
     }
 }
+.fotercontainer
+{
+
+}
+
+.socialicon{
+    margin-bottom: 10px;
+}
+
+.social-link {
+    margin-left: 1pc;
+    color: white;
+    font-weight: bolder;
+}
